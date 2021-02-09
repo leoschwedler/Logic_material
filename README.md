@@ -9,10 +9,11 @@ Quem não aprender a programar nos próximos anos, corre o risco de ficar depend
 # Conteúdos
 - [Onde a lógica de programação é utilizada](#onde-a-logica-de-programação-e-utilizada)
 - [Benefícios da lógica de programação](#beneficios-da-logica-de-programacao)
-- [Converse com outras pessoas sobre suas duvidas](#converse-com-outras-pessoas-sobre-suas-duvidas)
+- [Converse com outras pessoas sobre suas dúvidas](#converse-com-outras-pessoas-sobre-suas-duvidas)
 - [O algoritmo](#o-algoritmo)
     - [Codigo 1](#codigo-1)
     - [Codigo 2](#codigo-2)
+- [Roadmap](#roadmap)
 
 
 ## Onde a logica de programação e utilizada
@@ -69,3 +70,14 @@ A maioria dos algoritmos, obviamente, será mais complexa do que simplesmente �
 4 – Mostrar o resultado
  
 ![85672628_ALGORITMO](https://user-images.githubusercontent.com/77402907/107374590-85746a00-6ac6-11eb-86c1-581ef625afcb.jpg)
+
+## Roadmap
+
+Aqui vou colocando todos os algoritmos e exemplos e exercícios que irei disponibilizar para estudo.
+
+- Introdução
+    - ***Descrição:*** Nessa pasta vão ficar todos os arquivos de introdução à Lógica de Programação. Todos os passos iniciais que damos no começo do desenvolvimento/aprendizado.
+- Condicionais
+    - ***Descrição:*** Vamos armazenar aqui todos os arquivos sobre estruturas condicionais. 
+- Laçõs de Repetição
+    - ***Descrição:*** Nessa iremos colocar todos os arquivos correspondentes aos laços/estruturas de Repetição.
